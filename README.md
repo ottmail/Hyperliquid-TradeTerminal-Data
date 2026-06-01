@@ -16,7 +16,7 @@ This terminal is designed for traders who need a fast, auto-refreshing overview 
 
 🚀 How to Use
 
-Because this is a static, single-file web app, its pretty easy to use it:
+Because this is a static, single-file web app, its pretty easy to use it- click: hyperliquid-trade-terminal-data.vercel.app
 
 Visit the live GitHub Pages deployment here: 
 
